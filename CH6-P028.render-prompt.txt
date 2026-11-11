@@ -1,0 +1,54 @@
+Render CH6-P028 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH6-028-art.png, IAKESI-CH6-028-lettering.png, and IAKESI-CH6-028-text.txt.
+ARTWORK FILE — IAKESI-CH6-028-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH6-028-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH6-028-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 5 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Zora-Nyas-world-map.png, Assets/Nyas-cultural-development-specification.txt, Assets/Zora-cultural-development-specification.txt, Assets/Zora-Nyas-writing-systems-sheet.png, Assets/Zora-Nyas-writing-systems-renderer-spec.txt, Assets/Zora-mana-effects-sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Mortal-world full-color realistic manga. Show technological and magical change in canonical order. Avoid generic fantasy battle clutter; each panel must communicate the stated tactical or developmental point.
+- Setting: Demon Wars era; use the exact chronological stage named on the page.
+- Camera: Choose the simplest shot scale that makes the stated action immediately legible; vary wide/medium/close framing across the page without breaking continuity.
+- Scene: Scene 1
+- Blocking: Use only the characters/units required by the stated beat. Preserve established positions and screen direction from adjacent scenes.
+- Action: During the fifteen-year interval, Nyssarian aviation develops from experimental reconnaissance craft into practical military biplanes. At the same time, automatic weapons become lighter and more reliable.
+- CH6-P028-S01-D01: no speaker, speech balloon (no additional tail): “While Zora perfected its defenses on the ground, Nyas learned to fight above them.”
+
+Panel 2:
+- Panel direction (not printed text): Mortal-world full-color realistic manga. Show technological and magical change in canonical order. Avoid generic fantasy battle clutter; each panel must communicate the stated tactical or developmental point.
+- Setting: Demon Wars era; use the exact chronological stage named on the page.
+- Camera: Choose the simplest shot scale that makes the stated action immediately legible; vary wide/medium/close framing across the page without breaking continuity.
+- Scene: Scene 2
+- Blocking: Use only the characters/units required by the stated beat. Preserve established positions and screen direction from adjacent scenes.
+- Action: Aircraft observe Zoran formations from beyond normal magical range.
+
+Panel 3:
+- Panel direction (not printed text): Mortal-world full-color realistic manga. Show technological and magical change in canonical order. Avoid generic fantasy battle clutter; each panel must communicate the stated tactical or developmental point.
+- Setting: Demon Wars era; use the exact chronological stage named on the page.
+- Camera: Choose the simplest shot scale that makes the stated action immediately legible; vary wide/medium/close framing across the page without breaking continuity.
+- Scene: Scene 3
+- Blocking: Use only the characters/units required by the stated beat. Preserve established positions and screen direction from adjacent scenes.
+- Action: Messages are dropped to ground commanders.
+
+Panel 4:
+- Panel direction (not printed text): Mortal-world full-color realistic manga. Show technological and magical change in canonical order. Avoid generic fantasy battle clutter; each panel must communicate the stated tactical or developmental point.
+- Setting: Demon Wars era; use the exact chronological stage named on the page.
+- Camera: Choose the simplest shot scale that makes the stated action immediately legible; vary wide/medium/close framing across the page without breaking continuity.
+- Scene: Scene 4
+- Blocking: Use only the characters/units required by the stated beat. Preserve established positions and screen direction from adjacent scenes.
+- Action: Some combat aircraft carry machine guns. Forward-firing guns use an early synchronization mechanism so rounds pass between the rotating propeller blades; other aircraft may use wing-mounted guns where the airframe permits. They strafe exposed mages from beyond the effective range of many spells.
+
+Panel 5:
+- Panel direction (not printed text): Mortal-world full-color realistic manga. Show technological and magical change in canonical order. Avoid generic fantasy battle clutter; each panel must communicate the stated tactical or developmental point.
+- Setting: Demon Wars era; use the exact chronological stage named on the page.
+- Camera: Choose the simplest shot scale that makes the stated action immediately legible; vary wide/medium/close framing across the page without breaking continuity.
+- Scene: Scene 5
+- Blocking: Use only the characters/units required by the stated beat. Preserve established positions and screen direction from adjacent scenes.
+- Action: Small aerial bombs are dropped from altitude.
+
+Story lettering rule: use exactly the 1 panel/story lettered item listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH6-028-art.png and IAKESI-CH6-028-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.

@@ -1,0 +1,45 @@
+Render CH6-P005 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH6-005-art.png, IAKESI-CH6-005-lettering.png, and IAKESI-CH6-005-text.txt.
+ARTWORK FILE — IAKESI-CH6-005-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH6-005-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH6-005-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 4 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Global production rules — BINDING:
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Zora-Nyas-world-map.png, Assets/Nyas-cultural-development-specification.txt, Assets/Zora-cultural-development-specification.txt, Assets/Zora-Nyas-writing-systems-sheet.png, Assets/Zora-Nyas-writing-systems-renderer-spec.txt, Assets/Zoran-mana-crystals-production-sheet.png.
+Do not draw trim, crop, registration, bleed, or production marks.
+
+Panel 1:
+- Panel direction (not printed text): Mortal-world full-color realistic manga. Emphasize geographic scale, expedition competence, and dramatic irony. Preserve clear left-to-right/top-to-bottom reading and lettering space.
+- Setting: Zora–Nyas central mountain barrier / Silent Marches approach, prewar era.
+- Camera: Choose the simplest shot scale that makes the stated action immediately legible; vary wide/medium/close framing across the page without breaking continuity.
+- Scene: Scene 1
+- Blocking: Use only the characters/units required by the stated beat. Preserve established positions and screen direction from adjacent scenes.
+- Action: Nyssarian survey instruments and maps are checked and packed: compass, survey chains, theodolite, notebooks, and field references.
+
+Panel 2:
+- Panel direction (not printed text): Mortal-world full-color realistic manga. Emphasize geographic scale, expedition competence, and dramatic irony. Preserve clear left-to-right/top-to-bottom reading and lettering space.
+- Setting: Zora–Nyas central mountain barrier / Silent Marches approach, prewar era.
+- Camera: Choose the simplest shot scale that makes the stated action immediately legible; vary wide/medium/close framing across the page without breaking continuity.
+- Scene: Scene 2
+- Blocking: Use only the characters/units required by the stated beat. Preserve established positions and screen direction from adjacent scenes.
+- Action: Nyssarian pack animals, firearms, ammunition, and practical expedition supplies are prepared.
+
+Panel 3:
+- Panel direction (not printed text): Mortal-world full-color realistic manga. Emphasize geographic scale, expedition competence, and dramatic irony. Preserve clear left-to-right/top-to-bottom reading and lettering space.
+- Setting: Zora–Nyas central mountain barrier / Silent Marches approach, prewar era.
+- Camera: Choose the simplest shot scale that makes the stated action immediately legible; vary wide/medium/close framing across the page without breaking continuity.
+- Scene: Scene 3
+- Blocking: Use only the characters/units required by the stated beat. Preserve established positions and screen direction from adjacent scenes.
+- Action: Zoran scouts inspect mana crystals, staves, weapons, and magical equipment.
+
+Panel 4:
+- Panel direction (not printed text): Mortal-world full-color realistic manga. Emphasize geographic scale, expedition competence, and dramatic irony. Preserve clear left-to-right/top-to-bottom reading and lettering space.
+- Setting: Zora–Nyas central mountain barrier / Silent Marches approach, prewar era.
+- Camera: Choose the simplest shot scale that makes the stated action immediately legible; vary wide/medium/close framing across the page without breaking continuity.
+- Scene: Scene 4
+- Blocking: Use only the characters/units required by the stated beat. Preserve established positions and screen direction from adjacent scenes.
+- Action: Zoran healing supplies and demon-detection preparations are checked before departure.
+
+Story lettering rule: use exactly the 0 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH6-005-art.png and IAKESI-CH6-005-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
